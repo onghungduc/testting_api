@@ -1,0 +1,1 @@
+{"success":{"code":"200","name":"staff","id":1,"avatar":"http://192.168.236.2:1003/ApiShopNail/images/1.png","email":"sfatt@gmail.com","token":"8fQClFOUfTIH6W6SBcy8beIGxtSrCPqzk9W0rFIvuHec9wP5f9S4qNLgYgkZ","username":"staff"},"status":"true"}
